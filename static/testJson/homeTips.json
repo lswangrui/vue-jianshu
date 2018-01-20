@@ -1,0 +1,21 @@
+{
+  "code": 200,
+  "results": [{
+      "name": "hot",
+      "text": "热门"
+    },
+    {
+      "name": "new",
+      "text": "新上榜"
+    },
+    {
+      "name": "daily",
+      "text": "日报"
+    },
+    {
+      "name": "weekhot",
+      "text": "七日热门"
+    }
+  ],
+  "desc": "请求数据成功！"
+}

@@ -1,0 +1,13 @@
+{
+  "code": 200,
+  "results": [{
+      "name": "hot",
+      "text": "热门"
+    },
+    {
+      "name": "recommend",
+      "text": "推荐"
+    }
+  ],
+  "desc": "请求数据成功！"
+}
